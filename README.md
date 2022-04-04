@@ -1,5 +1,11 @@
 # Word2Vec project review
 
+First - sometimes parts of the jupyter code won't render properly on the github, in that case just copy paste github code link into this online aplication; 
+https://nbviewer.org/
+
+And here is an example of the first part:
+https://nbviewer.org/github/LukaLujan/word2vec/blob/main/gthb1.ipynb
+
 In those 4 google colab notebooks we will test full usage of Word2Vec models.
 About Word2Vec you can read more here; https://code.google.com/archive/p/word2vec/
 We will use simple fake news data set. https://www.kaggle.com/c/fake-news/
